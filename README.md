@@ -5,7 +5,6 @@ This repository contains materials for the Ring Theory course. The course aims t
 ## Course Objective
 
 Upon completion of this course, students will be able to:
-
 - Understand basic concepts of ring theory, including rings, homomorphisms, ideals, integral domains, fields, units, zero divisors, principal ideal domains (PID), Euclidean domains, and unique factorization domains (UFD).
 - Solve problems involving ring theory concepts in explicit situations.
 - Apply knowledge of quotient rings, prime/maximal ideals, and related theorems (such as the 1st isomorphism theorem and the Chinese remainder theorem) to solve problems in specific scenarios.
@@ -15,7 +14,6 @@ Upon completion of this course, students will be able to:
 ## Course Content
 
 The course covers the following topics:
-
 1. Definition of rings: units, zero divisors, subrings, integral domains, and fields, with illustrative examples.
 2. Ideals and generators.
 3. Quotient rings and isomorphism theorems.
@@ -30,11 +28,9 @@ The course covers the following topics:
 ## Literature
 
 The recommended textbook for this course is:
-
 - **Title:** Abstract Algebra
 - **Authors:** David S. Dummit, Richard M. Foote
 - **Edition:** 3rd Edition (2003)
 - **Publisher:** John Wiley and Sons
-
 
 
